@@ -1,5 +1,7 @@
 # open-analytics-template
- [NHS.UK](https://service-manual.nhs.uk/) template for open analytics projects
+ [NHS.UK](https://service-manual.nhs.uk/) themed template for open analytics projects. Build your own open source end-to-end analytical tool using python, plotly, github.io, and github actions.
+ 
+Example page deployed here: [[GitHub.io](https://nhsx.github.io/open-analytics-template/)]
 
 Used in the following projects:
  - [Open Source Healthcare Statistics](https://nhsx.github.io/open-health-statistics/) [[GitHub](https://github.com/nhsx/open-health-statistics)]
