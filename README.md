@@ -8,4 +8,4 @@ Used in the following projects:
  - [NHSX Publications from PubMed API](nhsx.github.io/nhsx-publications) [[GitHub](https://github.com/nhsx/nhsx-publications)] (in development)
  - [Digital Health Insights](https://nhsx.github.io/digital-health-insights/) [[GitHub](https://github.com/nhsx/digital-health-insights)] (in development)
  - [The Prescribing Cost of Antibiotics](https://mattia-ficarelli.github.io/antibiotic_cost/) [[GitHub](https://github.com/mattia-ficarelli/antibiotic_cost)]
- - [Number of Patients Registered at GP Practices in London](https://mattia-ficarelli.github.io/gp_mapping/) [[GitHub](https://github.com/mattia-ficarelli/gp_mapping)] (in development)
+ - [Number of Patients Registered at GP Practices in London](https://mattia-ficarelli.github.io/gp_mapping/) [[GitHub](https://github.com/mattia-ficarelli/gp_mapping)]
