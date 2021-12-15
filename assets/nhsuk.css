@@ -7888,7 +7888,10 @@ b {
 }
 @media (min-width: 40.0625em) {
   .nhsuk-warning-disclaimer {
-    padding: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
   }
 }
 @media print {
