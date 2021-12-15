@@ -4,7 +4,7 @@
 
 {% include update.html %}
 
-<div class="nhsuk-warning-callout">
+<!-- <div class="nhsuk-warning-callout">
   <h3 class="nhsuk-warning-callout__label">
     Important<span class="nhsuk-u-visually-hidden">:</span>
   </h3>
@@ -13,7 +13,7 @@
                 href="{{ site.github.owner_url }}"
                 >{{ site.github.owner_name }}</a>
    </p>
-</div>
+</div> -->
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
