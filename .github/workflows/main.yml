@@ -1,6 +1,6 @@
 name: GitHub Action Workflow
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   manual_deploy:
