@@ -2,7 +2,7 @@
 
 # Open Analytics Template
 
-{% include update.html %}
+Template for end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
 
 <!-- <div class="nhsuk-warning-callout">
   <h3 class="nhsuk-warning-callout__label">
@@ -17,7 +17,7 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-Template for end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/), and [github actions](https://github.com/features/actions).
+{% include update.html %}
 
 ## Plotly Chart
 

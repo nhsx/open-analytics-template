@@ -7860,8 +7860,8 @@ b {
 }
 
 .nhsuk-warning-disclaimer {
-  margin-bottom: 10px;
-  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 10px;
   padding: 10px;
   background-color: #ffeb3b;
   color: #212b32;
